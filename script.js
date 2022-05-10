@@ -82,8 +82,8 @@ function main() {
 var gen = document.querySelector('#gen');
 
 function go() {
-    for (let f = 0; f < 10; f++) {
-        for (let c = 0; c < 60; c++) {
+    for (let f = 0; f < 1; f++) {
+        for (let c = 0; c < 300; c++) {
             //bestdiff = 999999999;
             main();
             
